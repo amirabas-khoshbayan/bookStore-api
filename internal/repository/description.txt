@@ -1,0 +1,5 @@
+CRUD on DataBase
+CREATE (ایجاد)
+READ (خواندن)
+UPDATE (به روز رسانی)
+DELETE (حذف)

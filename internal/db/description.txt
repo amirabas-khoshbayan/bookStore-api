@@ -1,0 +1,2 @@
+Connect to the DataBase
+کانکت شدن به دیتابیس
